@@ -1,2 +1,2 @@
 # programacao_front_end
-Conteúdo da matéria de Programação Front-end
+Conteúdo aprendido na matéria de Programação Front-end
