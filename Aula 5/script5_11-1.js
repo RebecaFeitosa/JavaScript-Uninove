@@ -5,7 +5,7 @@ for (i=0; i<2; i++){ //externo, exemplo hora
   }
 }
 
-/* Exemplo de loop aninhado
+/* Exemplo: loop aninhado
 para cada 1 vez que executa o externo, executa todas as vezes o interno
 exemplo: i externo e j interno
 o i espera o j acabar para continuar
