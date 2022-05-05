@@ -5,7 +5,9 @@ num=2021;//2021
 num=8;//8
 num=71;//71
 num=130;//130
-document.write(num);//130
+//document.write(num);//130
+document.getElementById("dv1").innerHTML=num; //mudando o comando de saída
 
 x=[5,78,2021,8,71,130];
-document.write("<br>"+x);
+//document.write("<br>"+x);
+document.querySelector(".teste").innerHTML=x; //seletor do css
