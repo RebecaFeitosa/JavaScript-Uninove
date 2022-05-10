@@ -1,10 +1,18 @@
-#dv1{
-    background-color: rgb(185, 171, 114);
+#dv1
+    {
+    background-color: rgb(238, 130, 29);
     width: 600px;
     height: 100px;
-}
-.teste{
+    }
+
+.teste
+    {
     background-color: aqua;
     width: 600px;
     height: 100px;
-}
+    }
+
+h1
+    {
+    color: blue;
+    }
