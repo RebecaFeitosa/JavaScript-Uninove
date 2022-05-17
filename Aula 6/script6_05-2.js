@@ -12,7 +12,7 @@ document.querySelector("h2").innerHTML+=" - "+cidade[5];
 document.querySelector("h2").innerHTML+=" - "+cidade[cidade.length-1]
 
 /* Desafios:
-1- Mudar o conteúdo da tag h1, por Soroacaba - Guarulhos
+1- Mudar o conteúdo da tag h1, por Sorocaba - Guarulhos
 solução: document.querySelector("h1").innerHTML=cidade[2]+" - "+cidade[3];
 
 2- Mudar o conteúdo da tag div id="dv1" para mostrar a mensagem:
