@@ -1,7 +1,6 @@
-var signo=["Áries", "Touro", "Gêmeos", "Câncer", "Leão", "Virgem", "Libra", "Escorpião", "Sagitário", "Capricórnio", "Aquário", "Peixes"]
-
-for (var i=9800; i<9812; i++){
-    document.querySelector(".teste").innerHTML+="&#9800 - "+signo[0];
+var signo=["Áries", "Touro", "Gêmeos", "Câncer", "Leão", "Virgem", "Libra", "Escorpião", "Sagitário", "Capricórnio", "Aquário", "Peixes"];
+for(var i=0; i<signo.length; i++){
+    document.querySelector(".teste").innerHTML+="&#"+(9800+i) + signo[i]+"<br>";
 }
 
 /*
