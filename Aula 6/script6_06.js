@@ -1,4 +1,4 @@
-var frutas = ["Laranja", "Morango", "Melão", "Figo"];
+var frutas = ["Laranja", "Morango", "Melão", "Figo", 7.5, 2022];
 var junto = frutas.toString();  //todos os valores da var frutas foram para a var junto, por causa do toString
 document.querySelector("#dv").innerHTML=junto;
 //document.querySelector(".teste").innerHTML=junto;
