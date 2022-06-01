@@ -18,5 +18,5 @@ O valor que está dentro do push vai aparecer no final do conteúdo da array
 
 O valor que está dentro de unshift aparece no começo do contéudo da arraya
 
-ou seja adiciona valores nas extremidades.
+Ou seja adicionam valores nas extremidades.
 */
