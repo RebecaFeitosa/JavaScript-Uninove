@@ -14,7 +14,8 @@ uf.reverse();//inverter o array
 id_nome.value=uf;
 
 /*
-Sort: ordenação crescente, classificar em ordem alfabética (A-Z).
+Sort: ordenação crescente, classificar em ordem alfabética (A-Z), 
+não serve para números.
 
 Reverse: reverter, inverte os valores da array, de trás para frente.
 
