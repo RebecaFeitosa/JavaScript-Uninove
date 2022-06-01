@@ -15,7 +15,7 @@ id_nome.value=uf;
 
 /*
 Sort: ordenação crescente, classificar em ordem alfabética (A-Z), 
-não serve para números.
+só funciona com strings.
 
 Reverse: reverter, inverte os valores da array, de trás para frente.
 
