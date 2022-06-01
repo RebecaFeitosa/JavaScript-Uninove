@@ -17,4 +17,6 @@ id_nome.value=valores;
 Shift: retira o primeiro elemento(valor) de um array
 
 Pop: retira o último elemento de um array
+
+Ou seja, retiram valores das extremidades
 */
