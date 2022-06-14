@@ -20,7 +20,7 @@ function titulo2(tit){
 }
 
 
-titulo2("Título 2");
+titulo2("Título 2")
 boas_vindas("Jubileu");//executa, ou, chamada da função
 negrito("Esse texto está em negrito");
 titulo2("Último título 2");
