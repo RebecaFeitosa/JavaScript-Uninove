@@ -8,8 +8,8 @@ Autor: Nome do autor
 
 function boas_vindas(pessoa) {
     document.write("Seja bem vindo(a): "+pessoa+"!");
-    document.write("<hr>")
-}//criação, ou, construir, ou, declara
+    document.write("<hr>")  //não usa comando de saída dentro da função, só exemplo
+}//criação, ou, construir, ou, declarar
 
 function negrito(txt){
     document.write("<b>"+txt+"</b>");
